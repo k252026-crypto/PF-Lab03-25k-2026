@@ -3,8 +3,8 @@
 2. Pineapple
 3. Banana
 
-+lemonade
-+roseberry
-+hunger bites
++ lemonade
++ roseberry
++ hunger bites
 
 ***i am hungry***
